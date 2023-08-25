@@ -4,7 +4,7 @@
  * @Author: shenziqiang
  * @Date: 2023-08-21 14:59:23
  * @LastEditors: shenziqiang
- * @LastEditTime: 2023-08-25 10:09:41
+ * @LastEditTime: 2023-08-25 18:29:09
  */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
@@ -15,6 +15,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    test
     <App />
   </React.StrictMode>
 );
